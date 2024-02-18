@@ -1,0 +1,21 @@
+.tree-view-container {
+  min-height: 98vh;
+  background: #0014c5;
+  max-width: fit-content;
+}
+
+.menu-list-container {
+  min-width: 130px;
+  max-width: fit-content;
+  color: white;
+  list-style: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.7px;
+}
+
+.label-container {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
